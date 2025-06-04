@@ -90,7 +90,6 @@ PROJECT STRUCTURE
 
   2. Contact Details
      - Displays company or site contact info such as address, phone, and email.
-     - May include embedded Google Maps iframe for location.
 
 KEY COMPONENTS AND CODE DETAILS
 1. Navigation Bar (Navbar)
